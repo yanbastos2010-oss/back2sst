@@ -1,0 +1,6 @@
+{
+  "name": "Dinâmicas de Segurança - Oferta Relâmpago",
+  "description": "Página de ofertas exclusivas para o pacote completo de dinâmicas de segurança do trabalho com 85% de desconto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
